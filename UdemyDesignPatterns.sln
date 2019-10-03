@@ -4,6 +4,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsebility", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingListINotifyProperty", "BindingListINotifyProperty\BindingListINotifyProperty.csproj", "{C2EBBD03-C595-4CE5-BEAF-B3FA7EDD49C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{1EB38D1E-C3C6-4820-BBD8-0DCF6B1E4B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{E656901D-4175-4F82-B594-07D067BD23BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsMoveFirstLetterFromStrings", "CodeWarsMoveFirstLetterFromStrings\CodeWarsMoveFirstLetterFromStrings.csproj", "{CAEAACA3-BCB3-49DC-8BF8-A37D75A6F01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{51477E24-C565-4328-A041-4AD2288D1606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronNetwork_Composite", "NeuronNetwork_Composite\NeuronNetwork_Composite.csproj", "{9670CD64-0755-45CF-BD5F-F93E29C8B298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{94A28553-751E-4A38-BFDF-8C9D8D8AEAAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +30,29 @@ Global
 		{C2EBBD03-C595-4CE5-BEAF-B3FA7EDD49C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2EBBD03-C595-4CE5-BEAF-B3FA7EDD49C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2EBBD03-C595-4CE5-BEAF-B3FA7EDD49C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB38D1E-C3C6-4820-BBD8-0DCF6B1E4B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB38D1E-C3C6-4820-BBD8-0DCF6B1E4B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB38D1E-C3C6-4820-BBD8-0DCF6B1E4B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB38D1E-C3C6-4820-BBD8-0DCF6B1E4B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E656901D-4175-4F82-B594-07D067BD23BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E656901D-4175-4F82-B594-07D067BD23BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E656901D-4175-4F82-B594-07D067BD23BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E656901D-4175-4F82-B594-07D067BD23BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEAACA3-BCB3-49DC-8BF8-A37D75A6F01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEAACA3-BCB3-49DC-8BF8-A37D75A6F01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEAACA3-BCB3-49DC-8BF8-A37D75A6F01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEAACA3-BCB3-49DC-8BF8-A37D75A6F01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51477E24-C565-4328-A041-4AD2288D1606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51477E24-C565-4328-A041-4AD2288D1606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51477E24-C565-4328-A041-4AD2288D1606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51477E24-C565-4328-A041-4AD2288D1606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9670CD64-0755-45CF-BD5F-F93E29C8B298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9670CD64-0755-45CF-BD5F-F93E29C8B298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9670CD64-0755-45CF-BD5F-F93E29C8B298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9670CD64-0755-45CF-BD5F-F93E29C8B298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A28553-751E-4A38-BFDF-8C9D8D8AEAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A28553-751E-4A38-BFDF-8C9D8D8AEAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A28553-751E-4A38-BFDF-8C9D8D8AEAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A28553-751E-4A38-BFDF-8C9D8D8AEAAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
